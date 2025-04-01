@@ -12,7 +12,11 @@ FASE 3. Contiene los notebooks con la implementación de los flujos de trabajo p
 
 ## Flujo de trabajo para los datos MT
 
+![Flujo de trabajo para los datos MT](https://github.com/DanielaQuinteroMadariaga/Static_Shift_correction/blob/main/FlujodeTrabajoMT.svg)
+
 ## Flujo de trabajo para los datos SEV
+
+![Flujo de trabajo para los datos SEV](https://github.com/DanielaQuinteroMadariaga/Static_Shift_correction/blob/main/FlujodeTrabajoSEV.svg)
 
 ## Atribución
 
